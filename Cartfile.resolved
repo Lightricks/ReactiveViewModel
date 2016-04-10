@@ -1,4 +1,4 @@
 github "Quick/Nimble" "v0.2.0"
 github "Quick/Quick" "v0.2.2"
-github "ReactiveCocoa/ReactiveCocoa" "v2.4.3"
+github "Lightricks/ReactiveCocoa" "9fa8dbc315ad742ba31f02fb202b9fa3c2ecb4ed"
 github "jspahrsummers/xcconfigs" "0.7.1"
